@@ -17,6 +17,12 @@ Clinics and private doctors often lose track of patient follow-ups, resulting in
 
 ---
 
+## 🚀 Pitch Deck Template
+
+🎤 .[**Click here to view the pitch deck**](https://www.canva.com/design/DAGoXkHelI8/rx9fu0Vmg9iZMjp1IX6r3A/edit?utm_content=DAGoXkHelI8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+
+---
+
 ## 🧰 Tech Stack
 
 | Tool         | Purpose                                  |
