@@ -59,3 +59,4 @@ Clinics and private doctors often lose track of patient follow-ups, resulting in
 │   └── utils/           # Helper functions
 ├── builder.config.json  # Builder.io config
 └── README.md
+### Doctor login details: email: dr.smith@example.com, password: Password123
